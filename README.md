@@ -20,11 +20,10 @@ A lightweight, high-performance URL shortening and redirect service built with F
 
 Install dependencies:
 
-Bash
 pip install -r requirements.txt
+
 Start the application:
 
-Bash
 uvicorn main:app --reload --port 8000
 
 Access the docs:
